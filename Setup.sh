@@ -9,10 +9,7 @@ pkg install -y python git megacmd
 echo "Setting up Termux storage..."
 termux-setup-storage
 
-echo "downloding from github script"
 cd ~
-git clone https://github.com/Yaan1245/Termux-mega-D
-
 echo "permission to run"
 cd ~/Termux-mega-D
 chmod 
