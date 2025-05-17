@@ -10,11 +10,14 @@ echo "Setting up Termux storage..."
 termux-setup-storage
 
 cd ~
-echo "permission to run"
+echo "Permission to run"
 cd ~/Termux-mega-D
-chmod 
+
+# Make sure to set permissions properly
 chmod 777 *
 
 echo "Setup complete!"
-echo "You can now run your Mega downloader Python script my givem command==== ."
-echo "python megadl.py"
+echo "You can now run your Mega downloader Python script."
+echo "Running python megadl.py now..."
+
+python megadl.py
