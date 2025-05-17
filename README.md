@@ -1,6 +1,6 @@
 # Termux-mega-D
 
-A simple script to **download MEGA files anonymously** via Termux using anonymous login.
+A simple script to **download MEGA files anonymously 🔥✅🗿** via Termux using anonymous login.
 
 ---
 
@@ -18,7 +18,10 @@ Run the following commands step-by-step to get started:
 <pre><code>cd ~</code></pre>
 
 > **Clone the setup script repository**  
-<pre><code>git clone https://github.com/Yaan1245/Termux-mega-D/blob/main/Setup.sh</code></pre>
+<pre><code>git clone https://github.com/Yaan1245/Termux-mega-D.git</code></pre>
+
+> **CHANGE THE DIRECTORY TO Termux-mega-D 🔥**  
+<pre><code>cd Termux-mega-D</code></pre>
 
 > **Make the setup script executable**  
 <pre><code>chmod 777 setup.sh</code></pre>
